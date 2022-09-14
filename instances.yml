@@ -1,0 +1,7 @@
+instances:
+  - name: KConnect
+    dns:
+      - KConnect
+      - localhost
+    ip:
+      - 127.0.0.1
